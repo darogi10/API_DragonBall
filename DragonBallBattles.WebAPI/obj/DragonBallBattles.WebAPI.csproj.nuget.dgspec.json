@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.WebAPI\\DragonBallBattles.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\DragonBallBattles.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\DragonBallBattles.Application.csproj",
+        "projectName": "DragonBallBattles.Application",
+        "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\DragonBallBattles.Application.csproj",
+        "packagesPath": "C:\\Users\\DRG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\DragonBallBattles.Domain.csproj": {
+                "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\DragonBallBattles.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.12.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.12.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\DragonBallBattles.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\DragonBallBattles.Domain.csproj",
+        "projectName": "DragonBallBattles.Domain",
+        "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\DragonBallBattles.Domain.csproj",
+        "packagesPath": "C:\\Users\\DRG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Infrastructure\\DragonBallBattles.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Infrastructure\\DragonBallBattles.Infrastructure.csproj",
+        "projectName": "DragonBallBattles.Infrastructure",
+        "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Infrastructure\\DragonBallBattles.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DRG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\DragonBallBattles.Application.csproj": {
+                "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\DragonBallBattles.Application.csproj"
+              },
+              "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\DragonBallBattles.Domain.csproj": {
+                "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Domain\\DragonBallBattles.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.12.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.12.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.WebAPI\\DragonBallBattles.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.WebAPI\\DragonBallBattles.WebAPI.csproj",
+        "projectName": "DragonBallBattles.WebAPI",
+        "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.WebAPI\\DragonBallBattles.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\DRG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DRG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\DragonBallBattles.Application.csproj": {
+                "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Application\\DragonBallBattles.Application.csproj"
+              },
+              "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Infrastructure\\DragonBallBattles.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\DRG\\Documents\\Emtelco\\PruebaPractica\\DragonBallBattles.Infrastructure\\DragonBallBattles.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.12.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

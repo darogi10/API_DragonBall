@@ -1,0 +1,6 @@
+@DragonBallBattles.WebAPI_HostAddress = http://localhost:5152
+
+GET {{DragonBallBattles.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

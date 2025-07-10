@@ -1,0 +1,17 @@
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\bin\Debug\net8.0\DragonBallBattles.Infrastructure.deps.json
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\bin\Debug\net8.0\DragonBallBattles.Infrastructure.dll
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\bin\Debug\net8.0\DragonBallBattles.Infrastructure.pdb
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\bin\Debug\net8.0\DragonBallBattles.Application.dll
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\bin\Debug\net8.0\DragonBallBattles.Domain.dll
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\bin\Debug\net8.0\DragonBallBattles.Application.pdb
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\bin\Debug\net8.0\DragonBallBattles.Domain.pdb
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBallBattles.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBallBattles.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBallBattles.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBallBattles.Infrastructure.AssemblyInfo.cs
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBallBattles.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBa.57E22034.Up2Date
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBallBattles.Infrastructure.dll
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\refint\DragonBallBattles.Infrastructure.dll
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\DragonBallBattles.Infrastructure.pdb
+C:\Users\DRG\Documents\Emtelco\PruebaPractica\DragonBallBattles.Infrastructure\obj\Debug\net8.0\ref\DragonBallBattles.Infrastructure.dll

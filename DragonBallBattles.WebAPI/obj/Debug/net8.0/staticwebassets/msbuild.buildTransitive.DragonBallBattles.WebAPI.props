@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DragonBallBattles.WebAPI.props" />
+</Project>
